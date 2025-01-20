@@ -1,8 +1,8 @@
-# automation-test-mocha
+# automation-test-playwright
 automation-test-mocha 
 
 # run test 
-npx playwright test
+*npx playwright test*
 Run tests in headed mode
 To run your tests in headed mode, use the --headed flag. This will give you the ability to visually see how Playwright interacts with the website.
 
